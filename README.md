@@ -34,7 +34,7 @@ The analysis showed that the following areas have the potential for business gro
 5. Using data-driven decision making
 
 ## Dashboard View
-![Data Analyst]()
+![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Express%20Logistics%20Dashboard.pdf)
 Our interactive dashboard provides a comprehensive overview of logistics performance metrics, customer feedback analysis, and real-time tracking of deliveries.
 
 ## Recommendations for Business Growth:
