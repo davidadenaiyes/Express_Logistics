@@ -39,27 +39,27 @@ Our interactive dashboard provides a comprehensive overview of logistics perform
 
 ## Recommendations for Business Growth:
 
-- **Region-Based Strategies:**
-_Central & East:_ Strengthen customer engagement programs and loyalty rewards. Introduce exclusive offers to retain and attract more customers.
-_South & West:_ Focus on product diversification. Identify unique products popular in these regions and expand the inventory.
+1. **Region-Based Strategies:**
+- _Central & East:_ Strengthen customer engagement programs and loyalty rewards. Introduce exclusive offers to retain and attract more customers.
+- _South & West:_ Focus on product diversification. Identify unique products popular in these regions and expand the inventory.
 
-- **Product Focus:**
-_Office Supplies:_ Invest in marketing Binders, Paper, and Storage products. Create bundled offers to boost sales.
-_Furniture:_ Introduce new designs for Chairs and Tables. Collaborate with local artisans for unique, region-specific furniture pieces.
-_Technology:_ Promote Accessories and Phones aggressively. Offer discounts on Accessories with Phone purchases.
+ 2. **Product Focus:**
+- _Office Supplies:_ Invest in marketing Binders, Paper, and Storage products. Create bundled offers to boost sales.
+- _Furniture:_ Introduce new designs for Chairs and Tables. Collaborate with local artisans for unique, region-specific furniture pieces.
+- _Technology:_ Promote Accessories and Phones aggressively. Offer discounts on Accessories with Phone purchases.
 
-- **Shipping Optimization:**
+3. **Shipping Optimization:**
 Optimize Standard Class shipping for cost-effective delivery, encouraging more customers to choose this option.
 Enhance Same Day and First Class services with tracking features, ensuring reliability and customer satisfaction.
 
-- **Monthly Campaigns:**
+4. **Monthly Campaigns:**
 Run special promotions during low months like February to boost sales. Consider themed campaigns tied to holidays or events.
 
-- **Customer Engagement:**
+5. **Customer Engagement:**
 Implement a customer feedback system. Reward customers for feedback, providing insights for continuous improvement.
 Launch a customer referral program. Offer discounts for successful referrals, expanding your customer base.
 
-- **Inventory Management:**
+6. **Inventory Management:**
 Implement an inventory tracking system to avoid overstocking or shortages. Utilize data insights to predict demand and stock accordingly.
 
 
