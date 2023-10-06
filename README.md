@@ -1,5 +1,5 @@
 # Express Logistics Analysis
-![Data Analyst]()
+![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Intro%20Image.PNG)
 
 ## Introduction
 This project aims to analyze the data of Express Logistics to identify areas for business growth. The data includes information on orders, products, shipping, and customers and how I optimizied logistics operations and enhancing customer experiences through data-driven insights and innovative solutions.
@@ -16,17 +16,20 @@ Express Logistics is a growing company, but it is facing some challenges. The co
 - Dashboard Development
 - Data Cleaning and Transformation
 
+![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Express%20Logistics%20Image.jpg)
+
 ## Modelling
 We implemented various predictive models to forecast demand, optimize routes, and enhance inventory management, ensuring timely and efficient deliveries.
 
 ## Visualization
-![Data Analyst]()
+
 Interactive visualizations were created Using **Power Bi** to represent key insights and trends, aiding stakeholders in understanding complex data patterns and making informed decisions.
 
 ## Analysis
-The analysis showed that the following areas have the potential for business growth:
-![Data Analyst]()
 
+![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Decomposition%20Tree%20Analysis.PNG)
+
+The analysis showed that the following areas have the potential for business growth:
 1. Expanding into new regions
 2. Focusing on high-selling products
 3. Offering competitive shipping rates and options
@@ -34,8 +37,10 @@ The analysis showed that the following areas have the potential for business gro
 5. Using data-driven decision making
 
 ## Dashboard View
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Express%20Logistics%20Dashboard.pdf)
 Our interactive dashboard provides a comprehensive overview of logistics performance metrics, customer feedback analysis, and real-time tracking of deliveries.
+
+![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Main%20Dashboard.PNG)
+
 
 ## Recommendations for Business Growth:
 
@@ -65,10 +70,10 @@ Implement an inventory tracking system to avoid overstocking or shortages. Utili
 
 ### Thank You 
 For more info you can [Email me](muideenadeakanni@gmail.com)
-For [LinkedIn](https://www.linkedin.com/in/muideenadeakanni/)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/princeadeakanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muideenadeakanni)  
 
-
+![Data Analyst](https://github.com/princeadeakanni/WeCare-Attrition/blob/main/My%20banner.png)
 
 
 
